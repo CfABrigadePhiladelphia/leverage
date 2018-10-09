@@ -22,7 +22,7 @@ We'll have some soon. We promise!
 
 ## Contributing
 
-Leverage is still in its infancy. We have a great core team but are always looking for folks who want to contribute. Instructions [here](https://github.com/Lever-age/leverage/blob/master/CONTRIBUTING.md).
+Leverage is still in its infancy. We have a great core team but are always looking for folks who want to contribute. Instructions [here](https://github.com/CodeForPhilly/leverage/blob/master/CONTRIBUTING.md).
 
 ### Starting a development server
 
@@ -50,4 +50,4 @@ python manage.py runserver --settings=settings.dev
 
 ## License
 
-Please see the [license](https://github.com/Lever-age/leverage/blob/master/GNU%20Affero%20General%20Public%20License) file.
+Please see the [license](https://github.com/CodeForPhilly/leverage/blob/master/GNU%20Affero%20General%20Public%20License) file.
